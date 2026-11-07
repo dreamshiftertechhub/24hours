@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "24 Hours with Jesus — Awake, O Sent One!",
+      "hasCanvas": false,
+      "bodyTextLen": 3080,
+      "bodyTextHash": "22066f4851fae0eb59819f7b645cd5b2e5d0117318b1f8b9a14848b48a67ae18",
+      "bodyTextPrefix": "Skip to content 24H with Jesus Gathering Flow Ministers Register",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "24 Hours with Jesus — Awake, O Sent One!",
+      "hasCanvas": false,
+      "bodyTextLen": 3064,
+      "bodyTextHash": "14f6bc288518f5ce764b393d2177bfc70ceb8fd29ff894fe3d7601c8b8ec1813",
+      "bodyTextPrefix": "Skip to content 24H with Jesus Open menu 24 HOURS WITH JESUS · N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
